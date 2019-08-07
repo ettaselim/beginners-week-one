@@ -1,0 +1,57 @@
+h1 {
+  font-family: 'Beth Ellen', cursive;
+  color: purple;
+  text-align: center;
+  font-size: 43px;
+}
+
+.logo {
+  position:relative
+  size: 60%;
+}
+
+.circle {
+  %;
+}
+
+.logotext {
+  position: absolute;
+  text-align: center;
+  top: 8px;
+  left:570px;
+}
+
+.circle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  position: relative;
+  }
+body {
+  font-family: 'Crimson Pro', serif;
+  word-wrap: break-word;
+}
+p.intro{
+  text-align: justify;
+  align-items: left;
+}
+
+h2, h3{
+  color: red;
+  text-align: center;
+  margin-top: 5px;
+}
+
+ img.cat {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+html{
+  background: linear-gradient(pink, purple);
+  margin-left:200px;
+  margin-right: 200px;
+}
